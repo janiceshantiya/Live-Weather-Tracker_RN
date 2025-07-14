@@ -20,8 +20,7 @@ A simple, clean, and real-time weather application built with **React Native** u
 
 ## 📸 Screenshot
 
-![Live-Weather-Tracker_RN Output](https://github.com/user-attachments/assets/d19f74bc-27d8-491d-9720-dc9c552c34d9)
-
+![Live-Weather-Tracker_RN Output](https://github.com/user-attachments/assets/577c118c-6b17-4324-9f9c-512169c1498e)
 
 ---
 
