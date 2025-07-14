@@ -77,7 +77,7 @@ export default function App() {
       <View style={styles.weatherContainer}>
         <Text style={styles.city}>{location || 'Fetching City...'}</Text>
         <Text style={styles.temp}>
-              {temperature !== null ? `${Math.round(temperature)} °C` : '34°C'}
+              {temperature !== null ? `${Math.round(temperature)} °C` : 'Loading...'}
         </Text>
       </View>
     </View>
